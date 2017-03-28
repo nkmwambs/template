@@ -35,11 +35,11 @@
 */
 
 // The following values will probably need to be changed.
-$db['default']['dsn'] = 'mysql:host=localhost;dbname=temp';
+$db['default']['dsn'] = 'mysql:host=localhost;dbname=template';
 $db['default']['hostname'] = "localhost";
 $db['default']['username'] = "root";
 $db['default']['password'] = "";
-$db['default']['database'] = "temp";
+$db['default']['database'] = "template";
 
 
 // The following values can probably stay the same.
